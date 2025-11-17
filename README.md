@@ -186,8 +186,11 @@ This project is licensed under the **MIT License**.
 ## 👨‍💻 Team Members
 
 **Punit Jain**
+
 **Janhvi Patil**
+
 **Siya Pagar**
+
 **Sahil Singh**
 
 B.Tech Artificial Intelligence & Data Science
