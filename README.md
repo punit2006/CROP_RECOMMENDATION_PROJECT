@@ -1,11 +1,3 @@
-Here is a **professional, clean, GitHub-ready README.md** tailored for your **Crop Recommendation System**, aligned with your `.ipynb` + `app.py` Streamlit app + ML pipeline.
-
-If you want to add images, badges, or a project logo, let me know—I can enhance it further.
-
----
-
-# 📘 **README.md — Crop Recommendation System (ML + Streamlit + Colab Deployment)**
-
 ```markdown
 # 🌾 Crop Recommendation System  
 An intelligent machine learning–powered system that recommends the most suitable crop based on soil nutrients and environmental parameters.  
